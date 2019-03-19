@@ -10,7 +10,7 @@ The rest of the columns contain the pixel-values of the associated image. Each p
 where x is an integer between 0 and 783, inclusive.
 
 Predictive Models:
-The 5 models which we are using for this project for the prediction of hand written Digit recognition are  
+The 5 models used for this project for the prediction of hand written Digit recognition are  
 •	KNN
 •	SVM
 •	Random Forest
